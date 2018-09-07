@@ -48,12 +48,14 @@ lcd.print()
 The example code contained the following line that dictated delay between notes:<BR><BR>
  
 ```
-int pauseBetweenNotes = noteDuration * 1.30 <BR><BR>
+int pauseBetweenNotes = noteDuration * 1.30
 ```
  
 I changed the multplier to 1.30/2 = 0.65. Final code looked like:<BR><BR>
- 
-int pauseBetweenNotes = noteDuration * 0.65 <BR><BR>
+
+```
+int pauseBetweenNotes = noteDuration * 0.65
+```
 
 **b. What song is playing?**<BR>
 Star Wars theme song
