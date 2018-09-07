@@ -22,35 +22,35 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 ## Part B. Writing to the LCD
  
-**a. What voltage level do you need to power your display?**
+**a. What voltage level do you need to power your display?**<BR>
 3V?
 
-**b. What voltage level do you need to power the display backlight?**
+**b. What voltage level do you need to power the display backlight?**<BR>
 5V?
    
-**c. What was one mistake you made when wiring up the display? How did you fix it?**
+**c. What was one mistake you made when wiring up the display? How did you fix it?**<BR>
 One mistake I made wiring up the display was figuring out the orientation between the display pins and the Arduino I/O pins. I had a few false starts where I started connecting wires across other wires so it was a mess, but once I separated it to another breadboard it worked out. 
 
-**d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+**d. What line of code do you need to change to make it flash your name instead of "Hello World"?**<BR>
 lcd.print()
  
-**e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+**e. Include a copy of your Lowly Multimeter code in your lab write-up.**<BR>
 
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+**Upload a video of your working rotary encoder here.**<BR>
 
 
 ## Part D. Make your Arduino sing!
 
-**a. How would you change the code to make the song play twice as fast?**
+**a. How would you change the code to make the song play twice as fast?**<BR>
  
-**b. What song is playing?**
+**b. What song is playing?**<BR>
 
 
 ## Part E. Make your own timer
 
-**a. Make a short video showing how your timer works, and what happens when time is up!**
+**a. Make a short video showing how your timer works, and what happens when time is up!**<BR>
 
-**b. Post a link to the completed lab report your class hub GitHub repo.**
+**b. Post a link to the completed lab report your class hub GitHub repo.**<BR>
