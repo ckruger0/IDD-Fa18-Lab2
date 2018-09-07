@@ -47,9 +47,9 @@ lcd.print()
 **a. How would you change the code to make the song play twice as fast?**<BR>
 The example code contained the following line that dictated delay between notes:<BR><BR>
  
-'''
+```
 int pauseBetweenNotes = noteDuration * 1.30 <BR><BR>
- '''
+```
  
 I changed the multplier to 1.30/2 = 0.65. Final code looked like:<BR><BR>
  
