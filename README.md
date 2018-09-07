@@ -23,10 +23,10 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**<BR>
-3V?
+5V
 
 **b. What voltage level do you need to power the display backlight?**<BR>
-5V?
+3V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**<BR>
 One mistake I made wiring up the display was figuring out the orientation between the display pins and the Arduino I/O pins. I had a few false starts where I started connecting wires across other wires so it was a mess, but once I separated it to another breadboard it worked out. 
