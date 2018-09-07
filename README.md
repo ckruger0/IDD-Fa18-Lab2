@@ -18,8 +18,9 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 ## Part A. Solder your LCD panel
 
-**Take a picture of your soldered panel and add it here!**
-
+<img src="https://i.imgur.com/KQFWiSW.jpg">
+<BR>
+ 
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**<BR>
