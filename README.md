@@ -45,9 +45,16 @@ lcd.print()
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**<BR>
+The example code contained the following line that dictated delay between notes:<BR><BR>
  
-**b. What song is playing?**<BR>
+int pauseBetweenNotes = noteDuration * 1.30 <BR><BR>
+ 
+I changed the multplier to 1.30/2 = 0.65. Final code looked like:<BR><BR>
+ 
+int pauseBetweenNotes = noteDuration * 0.65 <BR><BR>
 
+**b. What song is playing?**<BR>
+Star Wars theme song
 
 ## Part E. Make your own timer
 
