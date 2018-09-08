@@ -33,12 +33,12 @@ lcd.print()
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**<BR><BR>
 
-<a href="">Lowly Multimeter code</a>
+<a href="https://github.com/ckruger0/IDD-Fa18-Lab2/blob/master/LowlyMultimeter.ino">Lowly Multimeter - CODE</a><BR>
+<a href="https://www.youtube.com/watch?v=dvQln0haYnE">Lowly Multimeter - VIDEO</a>
 
 ## Part C. Using a time-based digital sensor
 
-<a href="https://youtu.be/vhxhbqJrTTU">Rotary Encoder Proof</a>
-
+<a href="https://youtu.be/vhxhbqJrTTU">Rotary Encoder - VIDEO</a>
 
 ## Part D. Make your Arduino sing!
 
@@ -61,8 +61,8 @@ Star Wars theme song
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**<BR><BR>
- <a href="https://www.youtube.com/watch?v=g39is1shZ5M">Link to Video</a><BR><BR>
- <a href="https://github.com/ckruger0/IDD-Fa18-Lab2/blob/master/DigitalTimer_CKruger.ino">Link to Code</a><BR><BR>
+ <a href="https://github.com/ckruger0/IDD-Fa18-Lab2/blob/master/DigitalTimer_CKruger.ino">Digital Timer - CODE</a><BR><BR>
+ <a href="https://www.youtube.com/watch?v=g39is1shZ5M">Digital Timer - VIDEO</a><BR>
  My digital timer counts to 5 seconds once a button on the breadboard is pressed. After 5 seconds elapses, a short jingle is played and the timer is reset back to 0 seconds.
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**<BR>
