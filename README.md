@@ -31,8 +31,9 @@ One mistake I made wiring up the display was figuring out the orientation betwee
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**<BR>
 lcd.print()
  
-**e. Include a copy of your Lowly Multimeter code in your lab write-up.**<BR>
+**e. Include a copy of your Lowly Multimeter code in your lab write-up.**<BR><BR>
 
+<a href="">Lowly Multimeter code</a>
 
 ## Part C. Using a time-based digital sensor
 
